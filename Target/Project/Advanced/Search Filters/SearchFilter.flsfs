@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultSearchFilterSet
-  fileTags="File Tags/FileTagSetStatus.Ready for Review">
+<CatapultSearchFilterSet>
   <SearchFilter
     Name="My Subset"></SearchFilter>
 </CatapultSearchFilterSet>

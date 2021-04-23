@@ -6,9 +6,13 @@
   TemplateName="Fluid"
   Comment="HTML5 Top Navigation skin"
   EnableResponsiveOutput="True"
-  AutoSyncTOC="true"
-  fileTags="File Tags/FileTagSetStatus.Ready for Review">
+  AutoSyncTOC="true">
   <WebHelpOptions
     NavigationPanePosition="Right" />
-  <Stylesheet />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Menu" />
+    </Styles>
+  </Stylesheet>
 </CatapultSkin>

@@ -12,8 +12,7 @@
   Tabs="TOC,Index,Search,Community"
   DefaultTab="TOC"
   UseBrowserDefaultSize="True"
-  UseDefaultBrowserSetup="True"
-  fileTags="File Tags/FileTagSetStatus.Ready for Review">
+  UseDefaultBrowserSetup="True">
   <Index
     BinaryStorage="True" />
   <HtmlHelpOptions

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultVariableSet
-  fileTags="File Tags/FileTagSetStatus.Ready for Review">
+<CatapultVariableSet>
   <Variable
     Comment=""
     Name="CompanyName">MadCap Software</Variable>
