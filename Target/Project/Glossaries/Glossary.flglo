@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CatapultGlossary>
-	<GlossaryEntry glossTerm="Glossary.Term0">
-		<Terms>
-			<Term>My Term</Term>
-		</Terms>
-		<Definition>My definition</Definition>
-	</GlossaryEntry>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  fileTags="File Tags/FileTagSetStatus.Ready for Review">
+  <GlossaryEntry
+    glossTerm="Glossary.Term0">
+    <Terms>
+      <Term>My Term</Term>
+    </Terms>
+    <Definition>My definition</Definition>
+  </GlossaryEntry>
 </CatapultGlossary>
