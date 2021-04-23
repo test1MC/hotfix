@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="3"
+  Version="1"
   SkinType="WebHelp2"
   ComponentType="MasterPage"
   TemplateName="Fluid"
   Comment="HTML5 Side Navigation skin"
   EnableResponsiveOutput="True"
-  AutoSyncTOC="true">
+  AutoSyncTOC="true"
+  fileTags="File Tags/FileTagSetStatus.Ready for Review">
   <WebHelpOptions
     NavigationPanePosition="Right"
     OffCanvasMenuStyle="Accordion"
-    MainMenuPosition="Left" 
+    MainMenuPosition="Left"
     EnableSticky="All" />
+  <Stylesheet />
 </CatapultSkin>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CatapultAutoIndexSet>
-
-  <AutoIndex Phrase="This is my auto-indexed phrase" IndexTerm="Linked To This:And This" />
-  
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAutoIndexSet
+  fileTags="File Tags/FileTagSetStatus.Ready for Review">
+  <AutoIndex
+    Phrase="This is my auto-indexed phrase"
+    IndexTerm="Linked To This:And This" />
 </CatapultAutoIndexSet>
